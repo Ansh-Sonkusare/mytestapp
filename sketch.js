@@ -70,4 +70,4 @@ function bestMove() {
   }
 
 
-  console.log('ansh');
+  console.log('login');
