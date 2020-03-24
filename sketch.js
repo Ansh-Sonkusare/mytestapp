@@ -68,3 +68,6 @@ function bestMove() {
       return bestScore;
     }
   }
+
+
+  console.log('ansh');
